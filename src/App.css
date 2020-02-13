@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #1c201e; 
+}
+
+body {
+  line-height: 1.4;
+}
+
+a {
+  color: #f3ea0c;
+  text-decoration: none;
+}
+
+h1 {
+  color: #d8e4de;
+}
+
+h3 {
+  color: #d8e4de;
+}
+
+p {
+  color: #d8e4de;
+}
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: whitesmoke;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: yellow;
+}
+
+input {
+  color: yellow;
+}
